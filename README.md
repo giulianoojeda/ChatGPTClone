@@ -2,6 +2,18 @@
 
 This is a ChatGPT interface clone built using React and Node.js, designed to demonstrate how to integrate the OpenAI Chat API in a web application.
 
+## Requirements
+
+Before you can run this application, you must have the following software installed:
+
+- [Node.js](https://nodejs.org/en/) (version 18.0 or later)
+- [React](https://reactjs.org/docs/getting-started.html) (version 18.0 or later)
+
+Please refer to the following links for installation instructions:
+
+- [Installing Node.js](https://nodejs.org/en/download/)
+- [Getting Started with React](https://reactjs.org/docs/getting-started.html)
+
 ## Installation
 
 1. Clone this repository to your local machine.
@@ -11,8 +23,6 @@ This is a ChatGPT interface clone built using React and Node.js, designed to dem
    ```
    npm install
    ```
-
-Sure, here's the updated step 2 for the README file:
 
 4. Copy the `.env.example` file to `.env` by running the following command:
 
