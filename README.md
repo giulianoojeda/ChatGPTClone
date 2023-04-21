@@ -1,4 +1,8 @@
 # ChatGPT Clone
+[![Built with React](https://img.shields.io/badge/Built_with-React-blue.svg)](https://reactjs.org/)
+[![Built with Node.js](https://img.shields.io/badge/Built_with-Node.js-green.svg)](https://nodejs.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 
 This is a ChatGPT interface clone built using React and Node.js, designed to demonstrate how to integrate the OpenAI Chat API in a web application.
 
